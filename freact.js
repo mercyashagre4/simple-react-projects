@@ -1,4 +1,4 @@
-/* ========== APP .js ===========
+========== APP .js ===========
     import React from "react";
 import Fruits from "./Fruits";
 import FruitsCounter from "./FruitsCounter";
@@ -31,6 +31,7 @@ function Fruits(props) {
 }
 
 export default Fruits
+    
 ========== friutCounter.js =========
 function FruitsCounter(props) {
     return (
@@ -40,4 +41,4 @@ function FruitsCounter(props) {
 
 export default FruitsCounter;
 
-*/
+

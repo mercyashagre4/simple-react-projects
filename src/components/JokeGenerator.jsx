@@ -1,8 +1,8 @@
-import React, { useState, useEffect } from 'react'; // I used useEffect react hook to run side effects(there is a state change every time randomly) in function components. 
+import React, { useState, useEffect } from 'react'; // I have used useEffect react hook to run side effects(there is a state change every time randomly) in function components. 
 import axios from 'axios'; // importing axios for making an Http request 
 
 const jokeGenerator = () => {
-    const[joke, setJoke] = useState({});
+    const[joke, setJoke] = useState({}); // we have a state variable joke and setJoke method to update the state
 
 useEffect(() => {
     const fetchJoke = async() => { //fetchJoke function makes an asynchronous GET request to the URL using axios

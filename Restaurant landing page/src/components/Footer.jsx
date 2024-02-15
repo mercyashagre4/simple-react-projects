@@ -1,5 +1,5 @@
 import React from "react";
-import { BsFacebook } from "react-icons/bs";
+import { BsFacebook } from "react-icons/bs"; // importing icons from react icon
 import { RiTwitterXFill } from "react-icons/ri";
 import { BsInstagram } from "react-icons/bs";
 import { Link } from "react-scroll";
@@ -68,7 +68,7 @@ const Footer = () => {
               className=" hover:text-brightColor transition-all cursor-pointer"
               to="/"
             >
-              HabeshaRestaurant@email.com
+              HabeshaRestaurant@gmail.com
             </Link>
             <Link
               className=" hover:text-brightColor transition-all cursor-pointer"

@@ -1,5 +1,5 @@
 
-/*=================== Login Page ===================*/
+/*=================== Login Page using tailwind css ===================*/
 import React from 'react';
 import './App.css';
 import Login from './components/login page/Login';

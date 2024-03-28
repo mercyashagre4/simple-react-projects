@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    font-family: 'Times New Roman', Times, serif;
+}
+.explore-section {
+    background-color: #E7E6E0;
+}
+.explore-section h2 {
+    margin:  40px 0 30px 15px;
+    font-size: 30px;
+    font-weight: 700;
+}
+.explore-section .span-1 {
+    color: #EC2633;
+}
+.explore-section p {
+    font-size: 20px;
+    font-weight: 400;
+    margin-left: 40px;
+}
+.explore-section p span {
+    display: block;
+    margin-top: 23px;
+    margin-bottom: 20px;
+}
+.cards {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    gap: 5px; 
+    margin-bottom: 20px; 
+}
+.card {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.card-icon {
+    background-color: rgb(36, 34, 34);
+    padding: 60px 90px 15px 90px;
+    padding-bottom: 30px;
+    margin: 20px;
+    margin-bottom: 10px;
+}
+.card-icon .icon {
+    font-size: 100px;
+    color:#EC2633;
+    padding: 40px;
+    padding-top: 20px;
+}
+#bell-icon {
+    padding-left: 60px;
+}
+.card-icon h1 {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 700;
+}
+.card p {
+    padding-top: 50px;
+    margin-bottom: 15px;
+    font-weight: 400;
+}
+.card p span {
+    display: block;
+}
+.horizontal-line {
+    border-bottom: solid 1px rgb(63, 60, 60);
+    width: 75%;
+}
+.arrow-icon {
+    color: #EC2633;
+    font-size: 25px;
+    padding: 10px 10px 0 0;
+    margin-left: 150px;
+}
+.more {
+    text-align: center;
+}
+.icon-section {
+    margin-bottom: 10px;
+}
+.bold {
+    border-bottom: solid 5px #EC2633;
+    width: 400px;
+}
+
+

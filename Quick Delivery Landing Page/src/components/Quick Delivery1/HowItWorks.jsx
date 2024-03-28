@@ -1,9 +1,10 @@
+/*=========================================== HoW It Works =====================================*/
 import React from 'react';
-// import { FaDotCircle} from 'react-icons/fa';
 import { GoCircle } from "react-icons/go";
 import howItWorksImg from '../../assets/quickImages/howItWorksImg.jpg';
 import './Quick Deliverycss/HowItWorks.css';
 import { faDisplay } from '@fortawesome/free-solid-svg-icons';
+
 const HowItWorks = () => {
   return (
     <div>
@@ -81,7 +82,7 @@ const HowItWorks = () => {
             </div>
         </div>
     </div>
-  )
+  );
 }
 
 export default HowItWorks;

@@ -1,7 +1,7 @@
+/*===================================== About Us ==================================*/
 import React from 'react';
 import './Quick Deliverycss/AboutUs.css';
 import AboutUsImg from '../../assets/quickImages/AboutUsImg.png';
-
 
 const AboutUs = () => {
   return (
@@ -19,7 +19,7 @@ const AboutUs = () => {
             </div>
         </div>
     </div>
-  )
+  );
 }
 
 export default AboutUs;

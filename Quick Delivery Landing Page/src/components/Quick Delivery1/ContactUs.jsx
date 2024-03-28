@@ -1,3 +1,4 @@
+/*==================================== Contact Us ============================*/
 import React from 'react';
 import { HiOutlinePhone } from "react-icons/hi";
 import { MdOutlineMailOutline } from "react-icons/md";
@@ -109,7 +110,7 @@ const ContactUs = () => {
                   </div>
         </div>
     </div>
-  )
+  );
 }
 
-export default ContactUs
+export default ContactUs;

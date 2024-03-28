@@ -1,7 +1,9 @@
-import React from 'react'
+/*============================================ Service =====================================*/
+import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faBell, faTemperatureHigh, faArrowUpRightFromSquare, faCube } from '@fortawesome/free-solid-svg-icons';
-import './Quick Deliverycss/Service.css'
+import './Quick Deliverycss/Service.css';
+
 const Service = () => {
   return (
     <div className="explore-section">
@@ -65,7 +67,7 @@ const Service = () => {
             </div>
           </div>
         </div>
-  )
+  );
 }
 
-export default Service
+export default Service;

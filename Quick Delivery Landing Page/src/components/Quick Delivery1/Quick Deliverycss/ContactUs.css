@@ -3,10 +3,6 @@
     padding: 0;
     overflow-x: hidden;
 }
-/* body {
-    min-width: 100%;
-    overflow-x: hidden;
-} */
 .container-footer {
      background: linear-gradient(304.58deg, #E7E6E0 145.5%, rgba(219, 201, 201, 0.68) 145.5%);
     min-width: 100%;

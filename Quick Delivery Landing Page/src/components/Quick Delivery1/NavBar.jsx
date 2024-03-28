@@ -1,6 +1,8 @@
+/*=============================================== NavBar ===================================*/
 import React from 'react';
 import logo from '../../assets/quickImages/logo.png';
 import './Quick Deliverycss/NavBar.css';
+
 const NavBar = () => {
   return (
     <div>

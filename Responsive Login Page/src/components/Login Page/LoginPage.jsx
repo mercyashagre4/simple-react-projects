@@ -1,6 +1,6 @@
 import React from 'react';
 import { FcGoogle } from "react-icons/fc";
-import './loginPageCss/LoginPage.css';
+import './LoginPageCss/LoginPage.css';
 
 const LoginPage = () => {
   return (
